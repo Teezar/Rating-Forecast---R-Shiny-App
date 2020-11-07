@@ -1,4 +1,4 @@
-# Rating-Forecast---R-Shiny-App
+# Rating-Forecast-R-Shiny-App
 
 The Rating Forecast is a customizable user-input interface to forecast the review rating of applications given select improvements are made. 
 
